@@ -1,43 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8" />
-  <title>Mornix Control Panel</title>
-  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <title>Mornix Bot Control</title>
   <style>
-    body {
-      font-family: sans-serif;
-      background-color: #1e1e2f;
-      color: white;
-      text-align: center;
-      padding: 20px;
-    }
-    button {
-      margin: 10px;
-      padding: 15px 30px;
-      font-size: 16px;
-      border: none;
-      border-radius: 8px;
-      background-color: #4a90e2;
-      color: white;
-      cursor: pointer;
-    }
-    button:hover {
-      background-color: #357ab8;
-    }
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    button { margin: 10px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
   </style>
 </head>
 <body>
-  <h1>Mornix Control Panel</h1>
-  <button onclick="sendCommand('/screenshot')">Скриншот</button>
-  <button onclick="sendCommand('/cpu')">Загрузка CPU</button>
-  <button onclick="sendCommand('/shutdown')">Выключить ПК</button>
-  <button onclick="sendCommand('/notepad')">Запустить блокнот</button>
-  <button onclick="sendCommand('/help')">Все команды</button>
+  <h1>Mornix Bot Control</h1>
+  <button onclick="sendCommand('wake')">Wake PC</button>
+  <button onclick="sendCommand('screenshot')">Screenshot</button>
+  <button onclick="sendCommand('shutdown')">Shutdown PC</button>
 
   <script>
     function sendCommand(cmd) {
-      Telegram.WebApp.sendData(cmd);
+      alert('Команда: ' + cmd + '\nЗдесь ты будешь реализовывать логику отправки команды боту.');
+      // Позже сюда добавим отправку через Telegram Web Apps или HTTP API
     }
   </script>
 </body>

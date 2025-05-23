@@ -137,3 +137,1638 @@ IndexError: list index out of range
 2025-05-24 01:24:01,625 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
 2025-05-24 01:24:11,663 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
 2025-05-24 01:27:12,122 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:28:50,171 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getMe "HTTP/1.1 200 OK"
+2025-05-24 01:28:50,215 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-24 01:28:50,216 - Application started
+2025-05-24 01:29:00,335 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:29:10,799 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:29:20,858 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:29:30,899 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:29:40,941 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:29:50,989 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:30:01,031 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:30:11,097 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:30:21,142 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:30:31,181 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:30:41,223 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:30:51,265 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:31:01,306 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:31:11,350 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:31:21,388 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:31:31,428 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:31:41,467 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:31:51,571 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:32:01,609 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:32:11,648 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:32:21,690 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:32:31,732 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:32:41,771 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:32:51,810 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:33:01,852 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:33:11,892 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:33:21,929 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:33:31,970 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:33:42,009 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:33:52,049 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:34:02,091 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:34:12,133 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:34:22,179 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:34:32,219 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:34:42,258 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:34:52,300 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:35:02,343 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:35:12,379 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:35:22,421 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:35:32,459 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:35:42,573 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:35:52,614 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:36:02,651 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:36:12,692 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:36:22,734 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:36:32,772 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:36:42,810 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:36:52,848 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:37:02,885 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:37:12,923 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:37:22,964 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:37:33,007 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:37:43,050 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:37:53,089 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:38:03,138 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:38:13,199 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:38:23,315 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:38:33,363 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:38:43,400 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:38:53,439 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:39:03,568 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:39:13,606 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:39:23,643 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:39:33,681 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:39:43,719 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:39:53,759 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:40:03,798 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:40:13,837 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:40:23,878 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:40:33,926 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:40:43,965 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:40:54,003 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:41:04,046 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:41:14,087 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:41:24,127 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:41:34,170 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:41:44,213 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:41:54,275 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:42:04,313 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:42:14,350 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:42:24,394 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:42:34,433 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:42:44,566 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:42:54,605 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:43:04,657 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:43:14,704 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:43:24,743 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:43:34,792 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:43:44,867 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:43:54,910 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:44:04,953 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:44:14,994 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:44:25,032 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:44:35,077 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:44:45,117 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:44:55,156 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:45:05,195 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:45:15,233 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:45:25,277 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:45:35,317 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:45:45,444 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:45:55,572 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:46:05,616 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:46:15,657 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:46:25,698 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:46:35,833 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:46:45,985 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:46:56,635 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:47:06,687 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:47:16,730 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:47:26,777 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:47:36,818 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:47:46,863 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:47:56,905 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:48:06,950 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:48:16,993 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:48:27,038 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:48:37,083 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:48:47,127 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:48:57,188 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:49:07,229 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:49:17,271 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:49:27,317 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:49:37,359 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:49:47,403 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:49:57,447 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:50:07,566 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:50:17,607 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:50:27,660 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:50:37,711 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:50:47,752 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:50:57,797 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:51:07,838 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:51:17,883 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:51:27,926 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:51:37,968 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:51:48,018 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:51:58,061 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:52:08,102 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:52:18,143 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:52:28,185 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:52:38,233 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:52:48,276 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:52:58,321 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:53:08,368 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:53:18,411 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:53:28,452 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:53:38,577 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:53:48,625 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:53:58,669 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:54:08,711 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:54:18,765 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:54:28,807 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:54:38,848 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:54:48,890 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:54:58,932 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:55:08,981 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:55:19,022 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:55:29,063 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:55:39,106 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:55:49,147 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:55:59,189 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:56:09,230 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:56:19,280 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:56:29,321 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:56:39,366 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:56:49,411 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:56:59,456 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:57:09,566 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:57:19,609 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:57:29,649 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:57:39,691 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:57:49,734 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:57:59,807 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:58:09,850 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:58:19,905 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:58:29,948 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:58:39,995 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:58:50,040 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:59:00,083 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:59:10,133 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:59:20,175 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:59:30,219 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:59:40,261 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 01:59:50,305 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:00:00,347 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:00:10,393 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:00:20,438 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:00:23,231 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:23,234 - Error while getting Updates: Conflict: terminated by setWebhook request
+2025-05-24 02:00:23,234 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by setWebhook request
+2025-05-24 02:00:27,289 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:27,290 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:27,291 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:28,835 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:28,836 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:28,836 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:34,143 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:34,143 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:34,144 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:37,599 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:37,600 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:37,600 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:42,797 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:42,798 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:42,798 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:50,620 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:00:50,621 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:00:50,621 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:01:02,132 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:01:02,133 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:01:02,134 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:01:19,355 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:01:19,356 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:01:19,356 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:01:45,139 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:01:45,140 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:01:45,140 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:02:15,283 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:02:15,284 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:02:15,284 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:02:45,413 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:02:45,414 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:02:45,414 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:03:15,621 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:03:15,622 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:03:15,622 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:03:45,735 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:03:45,736 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:03:45,736 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:04:15,866 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:04:15,867 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:04:15,867 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:04:45,993 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:04:45,994 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:04:45,994 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:05:16,632 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:05:16,634 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:05:16,634 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:05:46,774 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:05:46,775 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:05:46,775 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:06:16,905 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:06:16,906 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:06:16,906 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:06:47,385 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:06:47,386 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:06:47,387 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:07:17,846 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:07:17,847 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:07:17,848 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:07:48,000 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:07:48,001 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:07:48,002 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:08:18,123 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:08:18,124 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:08:18,124 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:08:48,244 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:08:48,245 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:08:48,245 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:09:18,380 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:09:18,381 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:09:18,381 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:09:48,585 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:09:48,586 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:09:48,586 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:10:18,721 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:10:18,722 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:10:18,722 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:10:48,845 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:10:48,845 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:10:48,846 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:11:18,981 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:11:18,982 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:11:18,982 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:11:49,094 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:11:49,095 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:11:49,095 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:12:19,225 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:12:19,226 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:12:19,226 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:12:49,354 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:12:49,355 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:12:49,355 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:13:19,484 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:13:19,485 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:13:19,485 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:13:49,688 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:13:49,689 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:13:49,690 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:14:19,826 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:14:19,827 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:14:19,827 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:14:49,985 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:14:49,986 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:14:49,986 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:15:20,119 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:15:20,121 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:15:20,121 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:15:50,240 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:15:50,241 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:15:50,241 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:16:20,370 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:16:20,371 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:16:20,371 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:16:50,579 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:16:50,580 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:16:50,580 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:17:20,726 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:17:20,727 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:17:20,727 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:17:50,862 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:17:50,863 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:17:50,863 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:18:20,998 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:18:20,999 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:18:20,999 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:18:51,130 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:18:51,131 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:18:51,131 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:19:21,250 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:19:21,250 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:19:21,251 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:19:51,374 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:19:51,375 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:19:51,375 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:20:21,566 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:20:21,567 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:20:21,567 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:20:51,691 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:20:51,692 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:20:51,692 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:21:21,812 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:21:21,813 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:21:21,814 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:21:51,942 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:21:51,943 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:21:51,943 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:22:22,075 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:22:22,076 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:22:22,076 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:22:52,189 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:22:52,189 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:22:52,190 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:23:22,322 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-24 02:23:22,323 - Error while getting Updates: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:23:22,323 - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 607, in _network_loop_retry
+    if not await action_cb():
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 335, in polling_action_cb
+    raise exc
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_updater.py", line 320, in polling_action_cb
+    updates = await self.bot.get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 543, in get_updates
+    updates = await super().get_updates(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 381, in decorator
+    result = await func(self, *args, **kwargs)  # skipcq: PYL-E1102
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 3661, in get_updates
+    await self._post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 469, in _post
+    return await self._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\ext\_extbot.py", line 325, in _do_post
+    return await super()._do_post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\_bot.py", line 497, in _do_post
+    return await request.post(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 168, in post
+    result = await self._request_wrapper(
+  File "C:\Users\mpsal\AppData\Local\Programs\Python\Python310\lib\site-packages\telegram\request\_baserequest.py", line 330, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2025-05-24 02:24:02,448 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:24:12,569 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:24:22,609 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:24:32,650 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:24:42,691 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:24:52,734 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:25:02,773 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:25:12,814 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:25:22,868 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:25:32,910 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:25:42,949 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:25:52,991 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
+2025-05-24 02:26:03,035 - HTTP Request: POST https://api.telegram.org/bot8149263824:AAHUnVBAbmB1EPFJB-Jw74uT19eJvO5DiuQ/getUpdates "HTTP/1.1 200 OK"
