@@ -5,7 +5,8 @@ import subprocess
 import platform
 import socket
 import struct
-# from PIL import ImageGrab
+ # from PIL import ImageGrab
+
 
 from telegram import Update
 from telegram.ext import (
